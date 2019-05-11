@@ -66,22 +66,22 @@ After building this project, you'll have another great portfolio piece to show o
 
 ## Exceeds Expectations
 
-## When a correct character guess is made by the player:
+### When a correct character guess is made by the player:
 
 * Validate the player's guess by ensuring the guess is 1 character in length and that it is only letter character: a through z (uppercase or lowercase)
 * Any errors/exceptions should be handled
 
-## When an incorrectly guessed character is made by the player:
+### When an incorrectly guessed character is made by the player:
 
 * Validate the player's guess by ensuring the guess is 1 character in length and that it is only letters: a through z (uppercase or lowercase)
 * Any errors/exceptions should be handled
 
-## After winning, the player was prompted to play again:
+### After winning, the player was prompted to play again:
 
 * if they agree a new game instance should be created OR the current game instance should have its attributes reset to a NEW game state
 * if they disagree, the game should end with a message
 
-## After losing, the player was prompted to play again:
+### After losing, the player was prompted to play again:
 
 * if they agree a new game instance should be created OR the current game instance should have its attributes reset to a NEW game state
 * if they disagree, the game should end with a message
